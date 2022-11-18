@@ -1,5 +1,10 @@
 [![Header](./no_signal.png)](./rezume_81935699.pdf)
 # Beginner ML Engineer and Data Scientist
+- Student of the Southern Federal University
+- Working on statistics and analytical problems
+- Participated and won in regional competitions and hackathons on machine learning
+*You can view my CV by clicking on the banner*
+
 ## My stack:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
