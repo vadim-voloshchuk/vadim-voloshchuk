@@ -3,7 +3,7 @@
 - Student of the Southern Federal University
 - Working on statistics and analytical problems
 - Participated and won in regional competitions and hackathons on machine learning
-*You can view my CV by clicking on the banner*
+- _*You can view my CV by clicking on the banner_
 
 ## My stack:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
