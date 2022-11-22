@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
 ## My achievements:
-![Competitions](https://img.shields.io/badge/-Competitions-fec100?style=for-the-badge)
+![![Competitions](https://img.shields.io/badge/-Competitions-fec100?style=for-the-badge)](./Competitions.md)
 ![Publications](https://img.shields.io/badge/-Publications-fec100?style=for-the-badge)
 
 ## Follow me
