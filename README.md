@@ -13,6 +13,10 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
+## My achievements:
+![Competitions](https://img.shields.io/badge/-Competitions-fec100?style=for-the-badge)
+![Publications](https://img.shields.io/badge/-Publications-fec100?style=for-the-badge)
+
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/nosignalx2k)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](mailto:kingofsweetsx2k@gmail.com)
