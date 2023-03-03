@@ -16,6 +16,7 @@
 ## My achievements:
 [![Competitions](https://img.shields.io/badge/-Competitions-fec100?style=for-the-badge)](./Competitions.md)
 ![Publications](https://img.shields.io/badge/-Publications-fec100?style=for-the-badge)
+![CodeWars](https://www.codewars.com/users/vadim-voloshchuk/badges/large)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/nosignalx2k)
