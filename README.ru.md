@@ -64,7 +64,6 @@
 |---|---|---|
 | **MicroRAG** | Воспроизводимый RAG для технической документации: загрузка PDF, BM25 / FAISS, бенчмарки, оценка качества | [GitHub](https://github.com/vadim-voloshchuk/MicroRAG) |
 | **TfPLSLM** | Исследовательская SSM-модель и Transformer-база, обучение с нуля и воспроизводимые протоколы экспериментов | [GitHub](https://github.com/vadim-voloshchuk/TfPLSLM) |
-| **Lernium / NeuroLearn** | Образовательная платформа: генерация курсов, OCR, семантический поиск по источникам и версионирование | [Backend](https://github.com/NeuroFlexDev/ciBack) |
 | **doc2text-demo** | OCR, предобработка сканов с OpenCV, извлечение полей, Gradio | [GitHub](https://github.com/vadim-voloshchuk/doc2text-demo) |
 | **NeuroWeave** | Редактор и визуализатор графов, кратчайшие пути, центральности, кластеризация | [GitHub](https://github.com/vadim-voloshchuk/NeuroWeave) |
 
