@@ -1,33 +1,41 @@
 <div align="center">
 
-<img src="./assets/chibi-main.png" width="190" alt="Pixel-art character and black cat" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-transparent-dark.png">
+  <img src="./assets/hero-transparent-light.png" alt="Chibi pixel-art research profile banner" width="100%" />
+</picture>
 
 # `ASCII_VADIM`
 
 **ML Engineer · AI Researcher · PhD Student @ SFedU**
 
-<sub>Document AI · RAG · Graph Retrieval · Distributed AI</sub>
+<sub>Document AI · RAG · Graph Retrieval · Distributed AI Systems</sub>
 
 <p>
-  <a href="./README.ru.md"><img src="https://img.shields.io/badge/RU-Русская_версия-64748b?style=flat-square" alt="Language" /></a>
-  <a href="./rezume_81935699.pdf"><img src="https://img.shields.io/badge/Resume-PDF-64748b?style=flat-square" alt="Resume PDF" /></a>
+  <a href="./README.ru.md"><img alt="Русская версия" src="https://img.shields.io/badge/RU-Русская_версия-64748b?style=flat-square" /></a>
+  <a href="./rezume_81935699.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-64748b?style=flat-square" /></a>
 </p>
 
 <p>
-  <a href="https://t.me/nosignalx2k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:vvoloshchuk@sfedu.ru"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vadim-voloshchuk"><img src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://t.me/nosignalx2k"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:vvoloshchuk@sfedu.ru"><img alt="Email" src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/vadim-voloshchuk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p>
-  <a href="https://orcid.org/0009-0003-0336-9305"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=58624116300"><img src="https://img.shields.io/badge/Scopus-E9711C?style=flat-square" alt="Scopus" /></a>
-  <a href="https://www.elibrary.ru/author_profile.asp?authorid=1245932"><img src="https://img.shields.io/badge/eLIBRARY-005BBB?style=flat-square" alt="eLIBRARY" /></a>
+  <a href="https://orcid.org/0009-0003-0336-9305"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=58624116300"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-E9711C?style=flat-square" /></a>
+  <a href="https://www.elibrary.ru/author_profile.asp?authorid=1245932"><img alt="eLIBRARY" src="https://img.shields.io/badge/eLIBRARY-005BBB?style=flat-square" /></a>
 </p>
 
 </div>
 
 ---
+
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activities-transparent-dark-1.png"><img src="./assets/activities-transparent-light-1.png" width="100%" alt="Build and research chibi scenes" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activities-transparent-dark-2.png"><img src="./assets/activities-transparent-light-2.png" width="100%" alt="Explore and recharge chibi scenes" /></picture>
+</div>
 
 ## `> whoami`
 
@@ -44,11 +52,23 @@ I'm **Vadim Voloshchuk**, an **ML engineer, AI researcher and PhD student** at *
 
 ## `> research --telemetry`
 
+<div align="center">
+<img src="./assets/telemetry-1.png" width="100%" alt="Document retrieval benchmark: Recall@5 57.7 percent" />
+<img src="./assets/telemetry-2.png" width="100%" alt="Language model perplexity comparison" />
+<img src="./assets/telemetry-3.png" width="100%" alt="350 million tokens per model experiment" />
+</div>
+
+
 - **Technical-document retrieval:** evaluated BM25, dense retrieval, SPLADE and uniCOIL on **1,114 queries**; best **Recall@5 = 57.7%**. [Paper](https://doi.org/10.3390/fi18060327) · [Code](https://github.com/vadim-voloshchuk/MicroRAG)
 - **From-scratch language models:** compared three SSM/Transformer models with **~73–77M parameters** and **350M processed tokens per model** on NVIDIA H100. Natural-validation PPL: **26.25 (SSM-only)**, **26.36 (SSM + explicit memory)**, **28.99 (Transformer)**. **Exploratory single-seed runs with unequal context availability, not evidence of architectural superiority.** [Experiment notes & code](https://github.com/vadim-voloshchuk/TfPLSLM)
 - **Vector–graph retrieval:** studied hybrid semantic search and graph traversal, including quality–latency tradeoffs. [Paper](https://doi.org/10.3390/bdcc10020051)
 
 **PhD research:** reducing the infrastructure load of distributed multi-agent systems in digital twins: inter-agent traffic, semantic caching at the edge, context compression, KV-cache handling, heterogeneous routing and distributed inference.
+
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/research-map-transparent-dark-1.png"><img src="./assets/research-map-transparent-light-1.png" width="100%" alt="Research map: documents, retrieval, context" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/research-map-transparent-dark-2.png"><img src="./assets/research-map-transparent-light-2.png" width="100%" alt="Research map: routing, distributed agents" /></picture>
+</div>
 
 ## `> publications --selected`
 
@@ -117,3 +137,7 @@ Earlier SFedU / student laboratory work (2021–2023) involved video analytics f
 **Document AI / CV:** OpenCV · Tesseract OCR · EasyOCR · docTR · segmentation · classification · video analytics.
 
 **Infrastructure / applications:** FastAPI · PostgreSQL · Redis · Docker · Kubernetes · Helm · Linux · GitHub Actions · GitLab CI · pytest · React · TypeScript.
+
+<div align="center">
+<img src="./assets/terminal-original.png" width="100%" alt="Pixel-art terminal: think, research, build, measure, repeat" />
+</div>
