@@ -108,5 +108,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-20242C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nosignalx2k) [![Email](https://img.shields.io/badge/Почта_ЮФУ-20242C?style=flat-square&logo=gmail&logoColor=white)](mailto:vvoloshchuk@sfedu.ru) [![GitHub](https://img.shields.io/badge/GitHub-20242C?style=flat-square&logo=github&logoColor=white)](https://github.com/vadim-voloshchuk) [![ORCID](https://img.shields.io/badge/ORCID-20242C?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0336-9305)
 
 <img src="./assets/terminal.png" alt="Пиксельный терминал: think, research, build, measure, repeat" width="100%" />
-
-<sub>Пиксельный персонаж извлечён из предоставленного изображения и увеличен без сглаживания. Числа на научных панелях относятся к конкретным экспериментам и датам, не обновляются автоматически.</sub>
