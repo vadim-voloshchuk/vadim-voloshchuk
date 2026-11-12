@@ -1,37 +1,33 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
-  <img src="./assets/hero-light.png" alt="Pixel-art banner: Vadim Voloshchuk — ML Engineer and AI Researcher" width="100%" />
-</picture>
+<img src="./assets/chibi-main.png" width="190" alt="Pixel-art character and black cat" />
 
-**Engineer of structured intelligence. Explorer of hidden connections.**
+# `ASCII_VADIM`
+
+**ML Engineer · AI Researcher · PhD Student @ SFedU**
+
+<sub>Document AI · RAG · Graph Retrieval · Distributed AI</sub>
 
 <p>
-  <a href="./README.ru.md"><img src="https://img.shields.io/badge/Русская_версия-README-4C6FFF?style=for-the-badge&logo=readme&logoColor=white" alt="Russian README" /></a>
-  <a href="./rezume_81935699.pdf"><img src="https://img.shields.io/badge/Resume-PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
+  <a href="./README.ru.md"><img src="https://img.shields.io/badge/RU-Русская_версия-64748b?style=flat-square" alt="Language" /></a>
+  <a href="./rezume_81935699.pdf"><img src="https://img.shields.io/badge/Resume-PDF-64748b?style=flat-square" alt="Resume PDF" /></a>
 </p>
 
 <p>
-  <a href="https://t.me/nosignalx2k"><img src="https://img.shields.io/badge/Telegram-@nosignalx2k-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:vvoloshchuk@sfedu.ru"><img src="https://img.shields.io/badge/Academic_Email-vvoloshchuk@sfedu.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic email" /></a>
-  <a href="https://github.com/vadim-voloshchuk"><img src="https://img.shields.io/badge/GitHub-vadim--voloshchuk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://t.me/nosignalx2k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:vvoloshchuk@sfedu.ru"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vadim-voloshchuk"><img src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p>
-  <a href="https://orcid.org/0009-0003-0336-9305"><img src="https://img.shields.io/badge/ORCID-0009--0003--0336--9305-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=58624116300"><img src="https://img.shields.io/badge/Scopus-Author_ID_58624116300-E9711C?style=flat-square&logo=elsevier&logoColor=white" alt="Scopus Author ID" /></a>
-  <a href="https://www.elibrary.ru/author_profile.asp?authorid=1245932"><img src="https://img.shields.io/badge/eLIBRARY-AuthorID_1245932-005BBB?style=flat-square&logo=bookstack&logoColor=white" alt="eLIBRARY Author ID" /></a>
+  <a href="https://orcid.org/0009-0003-0336-9305"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=58624116300"><img src="https://img.shields.io/badge/Scopus-E9711C?style=flat-square" alt="Scopus" /></a>
+  <a href="https://www.elibrary.ru/author_profile.asp?authorid=1245932"><img src="https://img.shields.io/badge/eLIBRARY-005BBB?style=flat-square" alt="eLIBRARY" /></a>
 </p>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/activities-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/activities-light.png">
-  <img src="./assets/activities-light.png" alt="Four pixel-art modes: build, research, explore, recharge" width="100%" />
-</picture>
+---
 
 ## `> whoami`
 
@@ -48,23 +44,11 @@ I'm **Vadim Voloshchuk**, an **ML engineer, AI researcher and PhD student** at *
 
 ## `> research --telemetry`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/telemetry-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/telemetry-light.png">
-  <img src="./assets/telemetry-light.png" alt="RAG retrieval Recall@5 57.7% on 1114 queries; language model natural validation perplexity SSM 26.25 and Transformer 28.99; 350M tokens per model" width="100%" />
-</picture>
-
 - **Technical-document retrieval:** evaluated BM25, dense retrieval, SPLADE and uniCOIL on **1,114 queries**; best **Recall@5 = 57.7%**. [Paper](https://doi.org/10.3390/fi18060327) · [Code](https://github.com/vadim-voloshchuk/MicroRAG)
 - **From-scratch language models:** compared three SSM/Transformer models with **~73–77M parameters** and **350M processed tokens per model** on NVIDIA H100. Natural-validation PPL: **26.25 (SSM-only)**, **26.36 (SSM + explicit memory)**, **28.99 (Transformer)**. **Exploratory single-seed runs with unequal context availability, not evidence of architectural superiority.** [Experiment notes & code](https://github.com/vadim-voloshchuk/TfPLSLM)
 - **Vector–graph retrieval:** studied hybrid semantic search and graph traversal, including quality–latency tradeoffs. [Paper](https://doi.org/10.3390/bdcc10020051)
 
 **PhD research:** reducing the infrastructure load of distributed multi-agent systems in digital twins: inter-agent traffic, semantic caching at the edge, context compression, KV-cache handling, heterogeneous routing and distributed inference.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/research-map-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/research-map-light.png">
-  <img src="./assets/research-map-light.png" alt="Research map showing documents, vector-graph retrieval, context compression and caching, routing and distributed agents" width="100%" />
-</picture>
 
 ## `> publications --selected`
 
@@ -121,7 +105,6 @@ Earlier SFedU / student laboratory work (2021–2023) involved video analytics f
 
 - **2026 — present:** PhD studies at **Southern Federal University**, specialty **2.3.1** (System Analysis, Control and Information Processing).
 - **2026:** MSc, **Southern Federal University** — Computer Science and Engineering.
-- **2026:** MSc, **RUDN University** — Data Management and Artificial Intelligence, **with honors**.
 - **2024:** BSc, **Southern Federal University** — Computer Science and Engineering.
 - **2024:** Professional retraining, SFedU — Theory of Algorithms in AI Systems (Systems Analyst).
 
@@ -134,21 +117,3 @@ Earlier SFedU / student laboratory work (2021–2023) involved video analytics f
 **Document AI / CV:** OpenCV · Tesseract OCR · EasyOCR · docTR · segmentation · classification · video analytics.
 
 **Infrastructure / applications:** FastAPI · PostgreSQL · Redis · Docker · Kubernetes · Helm · Linux · GitHub Actions · GitLab CI · pytest · React · TypeScript.
-
-## `> connect`
-
-<p align="left">
-  <a href="https://t.me/nosignalx2k"><img src="https://img.shields.io/badge/Telegram-@nosignalx2k-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:vvoloshchuk@sfedu.ru"><img src="https://img.shields.io/badge/Email-vvoloshchuk@sfedu.ru-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vadim-voloshchuk"><img src="https://img.shields.io/badge/GitHub-vadim--voloshchuk-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://orcid.org/0009-0003-0336-9305"><img src="https://img.shields.io/badge/ORCID-0009--0003--0336--9305-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="./rezume_81935699.pdf"><img src="https://img.shields.io/badge/Resume-PDF-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.png">
-  <img src="./assets/terminal-light.png" alt="Pixel terminal: think, research, build, measure, repeat" width="100%" />
-</picture>
-
-<sub>Chibi pixel art extracted from a user-provided original reference sheet, background-cleaned and upscaled with nearest-neighbor resampling. Research indicators show dated experiments, not live metrics.</sub>
