@@ -108,5 +108,3 @@ Earlier SFedU / student laboratory work (2021–2023) involved video analytics f
 [![Telegram](https://img.shields.io/badge/Telegram-20242C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nosignalx2k) [![Email](https://img.shields.io/badge/Academic_Email-20242C?style=flat-square&logo=gmail&logoColor=white)](mailto:vvoloshchuk@sfedu.ru) [![GitHub](https://img.shields.io/badge/GitHub-20242C?style=flat-square&logo=github&logoColor=white)](https://github.com/vadim-voloshchuk) [![ORCID](https://img.shields.io/badge/ORCID-20242C?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0336-9305)
 
 <img src="./assets/terminal.png" alt="Pixel terminal: think, research, build, measure, repeat" width="100%" />
-
-<sub>Chibi pixel art extracted from a user-provided original reference sheet, background-cleaned and upscaled with nearest-neighbor resampling. Research indicators show dated experiments, not live metrics.</sub>
