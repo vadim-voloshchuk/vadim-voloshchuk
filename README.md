@@ -64,7 +64,6 @@ I'm **Vadim Voloshchuk**, an **ML engineer, AI researcher and PhD student** at *
 |---|---|---|
 | **MicroRAG** | Reproducible document retrieval and RAG research: PDF ingestion, BM25 / FAISS, evaluation and benchmarks | [GitHub](https://github.com/vadim-voloshchuk/MicroRAG) |
 | **TfPLSLM** | Selective state-space / Transformer language-model research, training from scratch and reproducible experiment notes | [GitHub](https://github.com/vadim-voloshchuk/TfPLSLM) |
-| **Lernium / NeuroLearn** | AI-assisted educational platform: course generation, document OCR, source-aware search and versioning | [Backend](https://github.com/NeuroFlexDev/ciBack) |
 | **doc2text-demo** | OCR and field extraction from documents, OpenCV preprocessing and Gradio interface | [GitHub](https://github.com/vadim-voloshchuk/doc2text-demo) |
 | **NeuroWeave** | Graph editing, visualization, shortest paths, centrality and clustering | [GitHub](https://github.com/vadim-voloshchuk/NeuroWeave) |
 
