@@ -1,41 +1,14 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-transparent-dark.png">
-  <img src="./assets/hero-transparent-light.png" alt="Chibi pixel-art research profile banner" width="100%" />
-</picture>
+<img src="./assets/hero.png" alt="Pixel-art banner: Vadim Voloshchuk — ML Engineer and AI Researcher" width="100%" />
 
-# `ASCII_VADIM`
+**Engineer of structured intelligence. Explorer of hidden connections.**
 
-**ML Engineer · AI Researcher · PhD Student @ SFedU**
-
-<sub>Document AI · RAG · Graph Retrieval · Distributed AI Systems</sub>
-
-<p>
-  <a href="./README.ru.md"><img alt="Русская версия" src="https://img.shields.io/badge/RU-Русская_версия-64748b?style=flat-square" /></a>
-  <a href="./rezume_81935699.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-64748b?style=flat-square" /></a>
-</p>
-
-<p>
-  <a href="https://t.me/nosignalx2k"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:vvoloshchuk@sfedu.ru"><img alt="Email" src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vadim-voloshchuk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p>
-  <a href="https://orcid.org/0009-0003-0336-9305"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=58624116300"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-E9711C?style=flat-square" /></a>
-  <a href="https://www.elibrary.ru/author_profile.asp?authorid=1245932"><img alt="eLIBRARY" src="https://img.shields.io/badge/eLIBRARY-005BBB?style=flat-square" /></a>
-</p>
+[🇷🇺 Русская версия](./README.ru.md) · [ORCID](https://orcid.org/0009-0003-0336-9305) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58624116300) · [eLIBRARY](https://www.elibrary.ru/author_profile.asp?authorid=1245932) · [Telegram](https://t.me/nosignalx2k)
 
 </div>
 
----
-
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activities-transparent-dark-1.png"><img src="./assets/activities-transparent-light-1.png" width="100%" alt="Build and research chibi scenes" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activities-transparent-dark-2.png"><img src="./assets/activities-transparent-light-2.png" width="100%" alt="Explore and recharge chibi scenes" /></picture>
-</div>
+<img src="./assets/activities.png" alt="Four pixel-art modes: build, research, explore, recharge" width="100%" />
 
 ## `> whoami`
 
@@ -52,12 +25,7 @@ I'm **Vadim Voloshchuk**, an **ML engineer, AI researcher and PhD student** at *
 
 ## `> research --telemetry`
 
-<div align="center">
-<img src="./assets/telemetry-1.png" width="100%" alt="Document retrieval benchmark: Recall@5 57.7 percent" />
-<img src="./assets/telemetry-2.png" width="100%" alt="Language model perplexity comparison" />
-<img src="./assets/telemetry-3.png" width="100%" alt="350 million tokens per model experiment" />
-</div>
-
+<img src="./assets/telemetry.png" alt="RAG retrieval Recall@5 57.7% on 1114 queries; language model natural validation perplexity SSM 26.25 and Transformer 28.99; 350M tokens per model" width="100%" />
 
 - **Technical-document retrieval:** evaluated BM25, dense retrieval, SPLADE and uniCOIL on **1,114 queries**; best **Recall@5 = 57.7%**. [Paper](https://doi.org/10.3390/fi18060327) · [Code](https://github.com/vadim-voloshchuk/MicroRAG)
 - **From-scratch language models:** compared three SSM/Transformer models with **~73–77M parameters** and **350M processed tokens per model** on NVIDIA H100. Natural-validation PPL: **26.25 (SSM-only)**, **26.36 (SSM + explicit memory)**, **28.99 (Transformer)**. **Exploratory single-seed runs with unequal context availability, not evidence of architectural superiority.** [Experiment notes & code](https://github.com/vadim-voloshchuk/TfPLSLM)
@@ -65,10 +33,7 @@ I'm **Vadim Voloshchuk**, an **ML engineer, AI researcher and PhD student** at *
 
 **PhD research:** reducing the infrastructure load of distributed multi-agent systems in digital twins: inter-agent traffic, semantic caching at the edge, context compression, KV-cache handling, heterogeneous routing and distributed inference.
 
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/research-map-transparent-dark-1.png"><img src="./assets/research-map-transparent-light-1.png" width="100%" alt="Research map: documents, retrieval, context" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/research-map-transparent-dark-2.png"><img src="./assets/research-map-transparent-light-2.png" width="100%" alt="Research map: routing, distributed agents" /></picture>
-</div>
+<img src="./assets/research-map.png" alt="Research map showing documents, vector-graph retrieval, context compression and caching, routing and distributed agents" width="100%" />
 
 ## `> publications --selected`
 
@@ -138,6 +103,10 @@ Earlier SFedU / student laboratory work (2021–2023) involved video analytics f
 
 **Infrastructure / applications:** FastAPI · PostgreSQL · Redis · Docker · Kubernetes · Helm · Linux · GitHub Actions · GitLab CI · pytest · React · TypeScript.
 
-<div align="center">
-<img src="./assets/terminal-original.png" width="100%" alt="Pixel-art terminal: think, research, build, measure, repeat" />
-</div>
+## `> connect`
+
+[![Telegram](https://img.shields.io/badge/Telegram-20242C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nosignalx2k) [![Email](https://img.shields.io/badge/Academic_Email-20242C?style=flat-square&logo=gmail&logoColor=white)](mailto:vvoloshchuk@sfedu.ru) [![GitHub](https://img.shields.io/badge/GitHub-20242C?style=flat-square&logo=github&logoColor=white)](https://github.com/vadim-voloshchuk) [![ORCID](https://img.shields.io/badge/ORCID-20242C?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0336-9305)
+
+<img src="./assets/terminal.png" alt="Pixel terminal: think, research, build, measure, repeat" width="100%" />
+
+<sub>Chibi pixel art extracted from a user-provided original reference sheet, background-cleaned and upscaled with nearest-neighbor resampling. Research indicators show dated experiments, not live metrics.</sub>

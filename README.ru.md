@@ -1,41 +1,14 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-transparent-dark.png">
-  <img src="./assets/hero-transparent-light.png" alt="Пиксельная обложка с чиби-персонажем" width="100%" />
-</picture>
+<img src="./assets/hero.png" alt="Пиксельная обложка: Вадим Волощук — ML-инженер и исследователь ИИ" width="100%" />
 
-# `ASCII_VADIM`
+**Инженер структурированного интеллекта. Исследователь скрытых связей.**
 
-**ML-инженер · Исследователь ИИ · Аспирант ЮФУ**
-
-<sub>Document AI · RAG · Графовый поиск · Распределённые системы ИИ</sub>
-
-<p>
-  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/EN-English-64748b?style=flat-square" /></a>
-  <a href="./rezume_81935699.pdf"><img alt="Резюме" src="https://img.shields.io/badge/Резюме-PDF-64748b?style=flat-square" /></a>
-</p>
-
-<p>
-  <a href="https://t.me/nosignalx2k"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:vvoloshchuk@sfedu.ru"><img alt="Почта" src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vadim-voloshchuk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p>
-  <a href="https://orcid.org/0009-0003-0336-9305"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=58624116300"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-E9711C?style=flat-square" /></a>
-  <a href="https://www.elibrary.ru/author_profile.asp?authorid=1245932"><img alt="eLIBRARY" src="https://img.shields.io/badge/eLIBRARY-005BBB?style=flat-square" /></a>
-</p>
+[🇬🇧 English version](./README.md) · [ORCID](https://orcid.org/0009-0003-0336-9305) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58624116300) · [eLIBRARY](https://www.elibrary.ru/author_profile.asp?authorid=1245932) · [Telegram](https://t.me/nosignalx2k)
 
 </div>
 
----
-
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activities-transparent-dark-1.png"><img src="./assets/activities-transparent-light-1.png" width="100%" alt="Build and research chibi scenes" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activities-transparent-dark-2.png"><img src="./assets/activities-transparent-light-2.png" width="100%" alt="Explore and recharge chibi scenes" /></picture>
-</div>
+<img src="./assets/activities.png" alt="Четыре режима в пиксельном стиле: разработка, исследование, эксперименты, отдых" width="100%" />
 
 ## `> whoami`
 
@@ -52,12 +25,7 @@
 
 ## `> research --telemetry`
 
-<div align="center">
-<img src="./assets/telemetry-1.png" width="100%" alt="Document retrieval benchmark: Recall@5 57.7 percent" />
-<img src="./assets/telemetry-2.png" width="100%" alt="Language model perplexity comparison" />
-<img src="./assets/telemetry-3.png" width="100%" alt="350 million tokens per model experiment" />
-</div>
-
+<img src="./assets/telemetry.png" alt="Результаты исследований: Recall@5 57,7% на 1114 запросах, PPL SSM 26,25 и Transformer 28,99, по 350 млн токенов на модель" width="100%" />
 
 - **Поиск по технической документации:** сравнение BM25, плотного поиска, SPLADE и uniCOIL на **1 114 запросах**; лучший **Recall@5 — 57,7%**. [Статья](https://doi.org/10.3390/fi18060327) · [Код](https://github.com/vadim-voloshchuk/MicroRAG).
 - **Языковые модели с нуля:** сравнение трёх SSM/Transformer-моделей (**~73–77 млн параметров**, **350 млн токенов на модель**) на NVIDIA H100. PPL на естественной валидации: **26,25 (SSM)**, **26,36 (SSM с памятью)**, **28,99 (Transformer)**. **Предварительные эксперименты с одним запуском и разными доступными окнами контекста: это не доказательство превосходства архитектуры.** [Отчёт и код](https://github.com/vadim-voloshchuk/TfPLSLM).
@@ -65,10 +33,7 @@
 
 **Тема аспирантуры:** снижение инфраструктурной нагрузки на распределённые мультиагентные системы в цифровых двойниках: межагентный трафик, семантическое кэширование на краю, сжатие контекста, управление KV-кэшем, маршрутизация и распределённый инференс на неоднородных ресурсах.
 
-<div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/research-map-transparent-dark-1.png"><img src="./assets/research-map-transparent-light-1.png" width="100%" alt="Research map: documents, retrieval, context" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/research-map-transparent-dark-2.png"><img src="./assets/research-map-transparent-light-2.png" width="100%" alt="Research map: routing, distributed agents" /></picture>
-</div>
+<img src="./assets/research-map.png" alt="Схема научных направлений: документы, векторно-графовый поиск, контекст, маршрутизация и распределённые агенты" width="100%" />
 
 ## `> publications --selected`
 
@@ -138,6 +103,10 @@
 
 **Инфраструктура:** FastAPI · PostgreSQL · Redis · Docker · Kubernetes · Helm · Linux · GitHub Actions · GitLab CI · pytest · React · TypeScript.
 
-<div align="center">
-<img src="./assets/terminal-original.png" width="100%" alt="Pixel-art terminal: think, research, build, measure, repeat" />
-</div>
+## `> connect`
+
+[![Telegram](https://img.shields.io/badge/Telegram-20242C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nosignalx2k) [![Email](https://img.shields.io/badge/Почта_ЮФУ-20242C?style=flat-square&logo=gmail&logoColor=white)](mailto:vvoloshchuk@sfedu.ru) [![GitHub](https://img.shields.io/badge/GitHub-20242C?style=flat-square&logo=github&logoColor=white)](https://github.com/vadim-voloshchuk) [![ORCID](https://img.shields.io/badge/ORCID-20242C?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0336-9305)
+
+<img src="./assets/terminal.png" alt="Пиксельный терминал: think, research, build, measure, repeat" width="100%" />
+
+<sub>Пиксельный персонаж извлечён из предоставленного изображения и увеличен без сглаживания. Числа на научных панелях относятся к конкретным экспериментам и датам, не обновляются автоматически.</sub>
